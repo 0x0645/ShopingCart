@@ -1,0 +1,29 @@
+.Maincolor{
+  background-color: #802c6e;
+}
+
+.cart{
+  font-size: 23px;
+}
+.cart span{
+  padding: 0 10px;
+}
+.numpostion{
+  position: absolute;
+  top: -18px;
+  bottom: 19px;
+}
+.cardtitile{
+  min-height: 120px;
+}
+.CartTitle{
+  color: #802c6e;
+}
+.TitleCart{
+  font-size: 20px;
+}
+.cartPrice{
+  font-size: 30px;
+  color: #802c6e;
+
+}
